@@ -33,7 +33,7 @@ class  NewVisitorTest(unittest.TestCase):
 		# enters "Use peacock feathers to make a fly" (Edith is very methodical)
 
 		# The page updates again, and now shows both items on her list
-
+# what the crap
 		# Edith wonders whether the site will remember her list. Then she sees
 		# that the site has generated a unique URL for her -- there is some
 		# explanatory text to that effect.
